@@ -100,8 +100,8 @@ export default function AboutPage() {
           </div>
           <div>
             <h2 className="text-lg font-semibold text-ink">{siteConfig.founder.name}</h2>
-            <p className="mt-1 text-xs font-medium uppercase tracking-wide text-slate">Founder — photo and biography placeholder</p>
-            <p className="mt-3 text-sm leading-relaxed text-slate">{siteConfig.founder.bioPlaceholder}</p>
+            <p className="mt-1 text-xs font-medium uppercase tracking-wide text-slate">Founder — photo coming soon</p>
+            <p className="mt-3 text-sm leading-relaxed text-slate">{siteConfig.founder.bio}</p>
           </div>
         </div>
       </section>

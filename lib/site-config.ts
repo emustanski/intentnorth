@@ -34,10 +34,10 @@ export const siteConfig = {
   // PLACEHOLDER — replace once the legal entity is formed and registered.
   legalEntityName: "PLACEHOLDER: IntentNorth Solutions (legal entity pending formation)",
   founder: {
-    name: "PLACEHOLDER: Founder name",
-    // PLACEHOLDER — do not populate with unverified biography content.
-    bioPlaceholder:
-      "PLACEHOLDER: Founder biography. Replace with a verified, first-person account of relevant background and experience before launch.",
+    name: "Edi Mustanski",
+    bio: "Edi Mustanski founded IntentNorth Solutions, bringing together a background in software engineering, conversational AI, and AI prompt engineering, alongside a growing interest in marketing. That combination shapes how IntentNorth works: understanding the technical systems that determine visibility, and the human intent behind every search, then applying both directly and manually to every audit and recommendation.",
+    // PLACEHOLDER — replace with a real founder photo before launch.
+    photoPlaceholder: true,
   },
 } as const;
 
